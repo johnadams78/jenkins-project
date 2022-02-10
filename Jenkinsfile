@@ -1,7 +1,7 @@
 node{
   stage("Test"){
     sh """
-      echo "Hello"
+      echo "Hello Ergun This is your webhook update"
     """
   }
 }
